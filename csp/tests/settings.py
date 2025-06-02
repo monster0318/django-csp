@@ -1,6 +1,5 @@
 import django
 
-
 CSP_REPORT_ONLY = False
 
 CSP_INCLUDE_NONCE_IN = ['default-src']
